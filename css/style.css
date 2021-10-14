@@ -16,7 +16,7 @@
     padding: 30px;
     text-align: center;
     font-size: 35px;
-    color: orange
+    color: orange;
   }
   
   /* Container for flexboxes */
@@ -64,5 +64,7 @@
   }
 
   .flex-container {
-      
+        position: absolute;
+        margin-top: 45px;
+        margin-left: 20px;
   }
